@@ -39,4 +39,4 @@ The SVM model with RBF kernel achieved the highest prediction accuracy (90%) and
 The GUI integrates the best tuned model for reliability; users can view prediction outcomes from multiple algorithms for increased confidence.
 
 # Update 2025
-Some codes might be outdated due to the improvement of different machine learning libraries, however the concepts and leanring points remain unchanged.
+Some codes might be outdated due to the improvement of different machine learning libraries, however the concepts and learning points remain unchanged.
