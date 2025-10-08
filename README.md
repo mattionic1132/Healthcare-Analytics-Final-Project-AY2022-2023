@@ -38,4 +38,5 @@ Tkinter-based GUI where users can input new patient data and receive real-time d
 The SVM model with RBF kernel achieved the highest prediction accuracy (90%) and best overall performance compared with other models, validated through stratified cross-validation and ROC analysis. MLP, KNN, and Logistic Regression models also performed robustly—each model’s confusion matrix, precision, recall, F1-score and ROC curves are detailed in the report.
 The GUI integrates the best tuned model for reliability; users can view prediction outcomes from multiple algorithms for increased confidence.
 
-#Update 2025: Some codes might be outdated due to the improvement of different machine learning libraries, however the concepts and leanring points remain unchanged.
+# Update 2025
+Some codes might be outdated due to the improvement of different machine learning libraries, however the concepts and leanring points remain unchanged.
