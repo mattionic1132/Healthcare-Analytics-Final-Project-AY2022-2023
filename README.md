@@ -1,5 +1,5 @@
 # Healthcare-Analytics-Final-Project-AY2022-2023
-This project was my first exposure to Machine Learning, which involved the commonly used Diabetes Dataset from Kaggle. My team and I explored, cleaned and selected the right data, fed them into different classifiers and deployed our best model with a Graphical User Interface.
+This project was my first exposure to Machine Learning, which involved the commonly used Diabetes Dataset from Kaggle. My team and I explored, cleaned and selected the right data, fed them into different classifiers and deployed our best model with a Graphical User Interface. Link to Presentation Video: https://drive.google.com/file/d/1O6I3R2CBSou9MazEa4Jn65Amp5toOpWV/view 
 
 # Project Overview
 This repository presents a Healthcare Analytics project focused on early detection of diabetes onset using advanced machine learning methods. The project leverages the well-established Pima Indian Diabetes dataset and compares multiple algorithms to predict diabetes from clinical data, with a user-facing interface for practical deployment.
